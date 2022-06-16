@@ -1,0 +1,13 @@
+D:\Victor\Escritorio\Hide\Programa\Sorteo.exe
+D:\Victor\Escritorio\Hide\Programa\Sorteo.dll
+D:\Victor\Escritorio\Hide\Programa\Sorteo.deps.json
+D:\Victor\Escritorio\Hide\Programa\Sorteo.runtimeconfig.json
+D:\Victor\Escritorio\Hide\Programa\Sorteo.pdb
+D:\Victor\Escritorio\Hide\Programa\BouncyCastle.Crypto.dll
+D:\Victor\Escritorio\Hide\Programa\Google.Protobuf.dll
+D:\Victor\Escritorio\Hide\Programa\K4os.Compression.LZ4.dll
+D:\Victor\Escritorio\Hide\Programa\K4os.Compression.LZ4.Streams.dll
+D:\Victor\Escritorio\Hide\Programa\K4os.Hash.xxHash.dll
+D:\Victor\Escritorio\Hide\Programa\MySql.Data.dll
+D:\Victor\Escritorio\Hide\Programa\Ubiety.Dns.Core.dll
+D:\Victor\Escritorio\Hide\Programa\ZstdNet.dll

@@ -1,0 +1,13 @@
+D:\Victor\Escritorio\Archivos-Proyecto PBP\Sorteo\Relase\Sorteo.exe
+D:\Victor\Escritorio\Archivos-Proyecto PBP\Sorteo\Relase\Sorteo.dll
+D:\Victor\Escritorio\Archivos-Proyecto PBP\Sorteo\Relase\Sorteo.deps.json
+D:\Victor\Escritorio\Archivos-Proyecto PBP\Sorteo\Relase\Sorteo.runtimeconfig.json
+D:\Victor\Escritorio\Archivos-Proyecto PBP\Sorteo\Relase\Sorteo.pdb
+D:\Victor\Escritorio\Archivos-Proyecto PBP\Sorteo\Relase\BouncyCastle.Crypto.dll
+D:\Victor\Escritorio\Archivos-Proyecto PBP\Sorteo\Relase\Google.Protobuf.dll
+D:\Victor\Escritorio\Archivos-Proyecto PBP\Sorteo\Relase\K4os.Compression.LZ4.dll
+D:\Victor\Escritorio\Archivos-Proyecto PBP\Sorteo\Relase\K4os.Compression.LZ4.Streams.dll
+D:\Victor\Escritorio\Archivos-Proyecto PBP\Sorteo\Relase\K4os.Hash.xxHash.dll
+D:\Victor\Escritorio\Archivos-Proyecto PBP\Sorteo\Relase\MySql.Data.dll
+D:\Victor\Escritorio\Archivos-Proyecto PBP\Sorteo\Relase\Ubiety.Dns.Core.dll
+D:\Victor\Escritorio\Archivos-Proyecto PBP\Sorteo\Relase\ZstdNet.dll

@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>D:\Victor\Escritorio\Hide\Archivos-Proyecto PBP\Sorteo\My Project\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+    <ShowAllFiles>false</ShowAllFiles>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="Animacion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login\Administración.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login\Bienvenida.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Registros\Empleados.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Registros\Estudiantes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Ganador.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Registros\Invitado.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Pantalla Principal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Seleccion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Temp.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Registros\Usuarios.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
