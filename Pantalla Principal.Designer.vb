@@ -38,6 +38,7 @@ Partial Class Pantalla_Principal
         Me.Button1 = New System.Windows.Forms.Button()
         Me.Button2 = New System.Windows.Forms.Button()
         Me.PanelChildForm = New System.Windows.Forms.Panel()
+        Me.Label2 = New System.Windows.Forms.Label()
         Me.PictureBox2 = New System.Windows.Forms.PictureBox()
         Me.PictureBox3 = New System.Windows.Forms.PictureBox()
         Me.Panel9 = New System.Windows.Forms.Panel()
@@ -49,7 +50,6 @@ Partial Class Pantalla_Principal
         Me.Button8 = New System.Windows.Forms.Button()
         Me.Panel3 = New System.Windows.Forms.Panel()
         Me.Panel10 = New System.Windows.Forms.Panel()
-        Me.Label2 = New System.Windows.Forms.Label()
         CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.Panel1.SuspendLayout()
         Me.Panel2.SuspendLayout()
@@ -66,9 +66,9 @@ Partial Class Pantalla_Principal
         Me.Label1.BackColor = System.Drawing.Color.Transparent
         Me.Label1.Font = New System.Drawing.Font("Segoe UI", 20.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point)
         Me.Label1.ForeColor = System.Drawing.SystemColors.ControlLightLight
-        Me.Label1.Location = New System.Drawing.Point(3, 61)
+        Me.Label1.Location = New System.Drawing.Point(-6, 61)
         Me.Label1.Name = "Label1"
-        Me.Label1.Size = New System.Drawing.Size(90, 37)
+        Me.Label1.Size = New System.Drawing.Size(113, 46)
         Me.Label1.TabIndex = 0
         Me.Label1.Text = "Menú"
         '
@@ -97,7 +97,7 @@ Partial Class Pantalla_Principal
         Me.Panel1.Dock = System.Windows.Forms.DockStyle.Left
         Me.Panel1.Location = New System.Drawing.Point(0, 0)
         Me.Panel1.Name = "Panel1"
-        Me.Panel1.Size = New System.Drawing.Size(94, 593)
+        Me.Panel1.Size = New System.Drawing.Size(94, 796)
         Me.Panel1.TabIndex = 4
         '
         'Button5
@@ -232,21 +232,31 @@ Partial Class Pantalla_Principal
         'PanelChildForm
         '
         Me.PanelChildForm.BackColor = System.Drawing.Color.FromArgb(CType(CType(48, Byte), Integer), CType(CType(56, Byte), Integer), CType(CType(58, Byte), Integer))
+        Me.PanelChildForm.Controls.Add(Me.Label2)
         Me.PanelChildForm.Controls.Add(Me.PictureBox2)
         Me.PanelChildForm.ForeColor = System.Drawing.Color.Transparent
         Me.PanelChildForm.Location = New System.Drawing.Point(97, 61)
         Me.PanelChildForm.Name = "PanelChildForm"
-        Me.PanelChildForm.Size = New System.Drawing.Size(849, 529)
+        Me.PanelChildForm.Size = New System.Drawing.Size(1206, 735)
         Me.PanelChildForm.TabIndex = 5
         Me.PanelChildForm.Visible = False
+        '
+        'Label2
+        '
+        Me.Label2.AutoSize = True
+        Me.Label2.Location = New System.Drawing.Point(-3, 706)
+        Me.Label2.Name = "Label2"
+        Me.Label2.Size = New System.Drawing.Size(349, 20)
+        Me.Label2.TabIndex = 10
+        Me.Label2.Text = "© 2024 - 2024 VSL COMPANY - All Rights Reserved."
         '
         'PictureBox2
         '
         Me.PictureBox2.BackgroundImage = Global.Sorteo.My.Resources.Resources.WhatsApp_Image_2022_04_12_at_11_48_21_AM_removebg_preview
         Me.PictureBox2.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom
-        Me.PictureBox2.Location = New System.Drawing.Point(225, 151)
+        Me.PictureBox2.Location = New System.Drawing.Point(307, 163)
         Me.PictureBox2.Name = "PictureBox2"
-        Me.PictureBox2.Size = New System.Drawing.Size(348, 201)
+        Me.PictureBox2.Size = New System.Drawing.Size(605, 383)
         Me.PictureBox2.TabIndex = 8
         Me.PictureBox2.TabStop = False
         '
@@ -351,7 +361,7 @@ Partial Class Pantalla_Principal
         Me.Panel3.Dock = System.Windows.Forms.DockStyle.Top
         Me.Panel3.Location = New System.Drawing.Point(94, 0)
         Me.Panel3.Name = "Panel3"
-        Me.Panel3.Size = New System.Drawing.Size(860, 44)
+        Me.Panel3.Size = New System.Drawing.Size(1209, 44)
         Me.Panel3.TabIndex = 6
         '
         'Panel10
@@ -360,17 +370,8 @@ Partial Class Pantalla_Principal
         Me.Panel10.Dock = System.Windows.Forms.DockStyle.Top
         Me.Panel10.Location = New System.Drawing.Point(94, 44)
         Me.Panel10.Name = "Panel10"
-        Me.Panel10.Size = New System.Drawing.Size(860, 14)
+        Me.Panel10.Size = New System.Drawing.Size(1209, 14)
         Me.Panel10.TabIndex = 7
-        '
-        'Label2
-        '
-        Me.Label2.AutoSize = True
-        Me.Label2.Location = New System.Drawing.Point(94, 578)
-        Me.Label2.Name = "Label2"
-        Me.Label2.Size = New System.Drawing.Size(285, 15)
-        Me.Label2.TabIndex = 10
-        Me.Label2.Text = "© 2022 - 2022 PBP Corporation - All Rights Reserved."
         '
         'Pantalla_Principal
         '
@@ -378,8 +379,7 @@ Partial Class Pantalla_Principal
         Me.AutoSize = True
         Me.BackColor = System.Drawing.Color.FromArgb(CType(CType(71, Byte), Integer), CType(CType(89, Byte), Integer), CType(CType(96, Byte), Integer))
         Me.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch
-        Me.ClientSize = New System.Drawing.Size(954, 593)
-        Me.Controls.Add(Me.Label2)
+        Me.ClientSize = New System.Drawing.Size(1303, 796)
         Me.Controls.Add(Me.Panel9)
         Me.Controls.Add(Me.Panel10)
         Me.Controls.Add(Me.Panel2)
@@ -399,6 +399,7 @@ Partial Class Pantalla_Principal
         Me.Panel1.PerformLayout()
         Me.Panel2.ResumeLayout(False)
         Me.PanelChildForm.ResumeLayout(False)
+        Me.PanelChildForm.PerformLayout()
         CType(Me.PictureBox2, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.PictureBox3, System.ComponentModel.ISupportInitialize).EndInit()
         Me.Panel9.ResumeLayout(False)

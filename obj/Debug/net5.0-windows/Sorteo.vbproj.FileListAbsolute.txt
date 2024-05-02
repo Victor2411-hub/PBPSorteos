@@ -74,3 +74,41 @@ D:\Victor\Escritorio\Hide\Archivos-Proyecto PBP\Sorteo\obj\Debug\net5.0-windows\
 D:\Victor\Escritorio\Hide\Archivos-Proyecto PBP\Sorteo\obj\Debug\net5.0-windows\ref\Sorteo.dll
 D:\Victor\Escritorio\Hide\Archivos-Proyecto PBP\Sorteo\obj\Debug\net5.0-windows\Sorteo.pdb
 D:\Victor\Escritorio\Hide\Archivos-Proyecto PBP\Sorteo\obj\Debug\net5.0-windows\Sorteo.genruntimeconfig.cache
+C:\Users\Victor De León\source\repos\PBPSorteos\bin\Debug\net5.0-windows\Sorteo.exe
+C:\Users\Victor De León\source\repos\PBPSorteos\bin\Debug\net5.0-windows\Sorteo.deps.json
+C:\Users\Victor De León\source\repos\PBPSorteos\bin\Debug\net5.0-windows\Sorteo.runtimeconfig.json
+C:\Users\Victor De León\source\repos\PBPSorteos\bin\Debug\net5.0-windows\Sorteo.runtimeconfig.dev.json
+C:\Users\Victor De León\source\repos\PBPSorteos\bin\Debug\net5.0-windows\Sorteo.dll
+C:\Users\Victor De León\source\repos\PBPSorteos\bin\Debug\net5.0-windows\ref\Sorteo.dll
+C:\Users\Victor De León\source\repos\PBPSorteos\bin\Debug\net5.0-windows\Sorteo.pdb
+C:\Users\Victor De León\source\repos\PBPSorteos\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+C:\Users\Victor De León\source\repos\PBPSorteos\bin\Debug\net5.0-windows\Google.Protobuf.dll
+C:\Users\Victor De León\source\repos\PBPSorteos\bin\Debug\net5.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Victor De León\source\repos\PBPSorteos\bin\Debug\net5.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Victor De León\source\repos\PBPSorteos\bin\Debug\net5.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Victor De León\source\repos\PBPSorteos\bin\Debug\net5.0-windows\MySql.Data.dll
+C:\Users\Victor De León\source\repos\PBPSorteos\bin\Debug\net5.0-windows\Ubiety.Dns.Core.dll
+C:\Users\Victor De León\source\repos\PBPSorteos\bin\Debug\net5.0-windows\ZstdNet.dll
+C:\Users\Victor De León\source\repos\PBPSorteos\obj\Debug\net5.0-windows\Sorteo.vbproj.AssemblyReference.cache
+C:\Users\Victor De León\source\repos\PBPSorteos\obj\Debug\net5.0-windows\Sorteo.Animacion.resources
+C:\Users\Victor De León\source\repos\PBPSorteos\obj\Debug\net5.0-windows\Sorteo.Ganador_Final.resources
+C:\Users\Victor De León\source\repos\PBPSorteos\obj\Debug\net5.0-windows\Sorteo.Form1.resources
+C:\Users\Victor De León\source\repos\PBPSorteos\obj\Debug\net5.0-windows\Sorteo.Bienvenida.resources
+C:\Users\Victor De León\source\repos\PBPSorteos\obj\Debug\net5.0-windows\Sorteo.Resources.resources
+C:\Users\Victor De León\source\repos\PBPSorteos\obj\Debug\net5.0-windows\Sorteo.Pantalla_Principal.resources
+C:\Users\Victor De León\source\repos\PBPSorteos\obj\Debug\net5.0-windows\Sorteo.Empleados.resources
+C:\Users\Victor De León\source\repos\PBPSorteos\obj\Debug\net5.0-windows\Sorteo.Estudiantes.resources
+C:\Users\Victor De León\source\repos\PBPSorteos\obj\Debug\net5.0-windows\Sorteo.Invitado.resources
+C:\Users\Victor De León\source\repos\PBPSorteos\obj\Debug\net5.0-windows\Sorteo.Usuarios.resources
+C:\Users\Victor De León\source\repos\PBPSorteos\obj\Debug\net5.0-windows\Sorteo.Seleccion.resources
+C:\Users\Victor De León\source\repos\PBPSorteos\obj\Debug\net5.0-windows\Sorteo.Temp.resources
+C:\Users\Victor De León\source\repos\PBPSorteos\obj\Debug\net5.0-windows\Sorteo.vbproj.GenerateResource.cache
+C:\Users\Victor De León\source\repos\PBPSorteos\obj\Debug\net5.0-windows\Sorteo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor De León\source\repos\PBPSorteos\obj\Debug\net5.0-windows\Sorteo.AssemblyInfoInputs.cache
+C:\Users\Victor De León\source\repos\PBPSorteos\obj\Debug\net5.0-windows\Sorteo.AssemblyInfo.vb
+C:\Users\Victor De León\source\repos\PBPSorteos\obj\Debug\net5.0-windows\Sorteo.vbproj.CoreCompileInputs.cache
+C:\Users\Victor De León\source\repos\PBPSorteos\obj\Debug\net5.0-windows\Sorteo.vbproj.CopyComplete
+C:\Users\Victor De León\source\repos\PBPSorteos\obj\Debug\net5.0-windows\Sorteo.dll
+C:\Users\Victor De León\source\repos\PBPSorteos\obj\Debug\net5.0-windows\ref\Sorteo.dll
+C:\Users\Victor De León\source\repos\PBPSorteos\obj\Debug\net5.0-windows\Sorteo.pdb
+C:\Users\Victor De León\source\repos\PBPSorteos\obj\Debug\net5.0-windows\Sorteo.genruntimeconfig.cache
